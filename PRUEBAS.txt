@@ -1,0 +1,11 @@
+25 Latidos — revisión funcional (30 octubre 2026)
+- 25 preguntas, cuatro opciones y respuestas válidas: OK
+- 5 retos suaves y 7 retos fuertes: OK
+- Inicio con cinco vidas: OK
+- Cinco fallos agotan las vidas: OK
+- Primer reto fuerte restaura tres vidas: OK
+- Retos fuertes posteriores restauran una vida: OK
+- Reto seleccionado se guarda en pendientes: OK
+- El premio de Villeta aparece tras completar las 25 preguntas: OK
+Notas: Pruebas automáticas de lógica JavaScript, no prueba visual en dispositivos reales.
+Publicación: falta subir los archivos a un hosting HTTPS.
